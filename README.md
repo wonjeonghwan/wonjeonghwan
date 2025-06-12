@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on a **Jumping Game** project
+- 🔭 Currently working on a **CX_assistant_LLM** project
 - 💬 Ask me about **Python**, **OpenCV**
 - 📫 Reach me at: [wonjeonghwan0315@gmail.com](mailto:wonjeonghwan0315@gmail.com)
 
