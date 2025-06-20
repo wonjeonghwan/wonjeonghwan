@@ -1,5 +1,9 @@
-<h1 align="left">Hi 👋, I'm Johan Won</h1>
-<h3 align="left">I design and build practical AI systems, focusing on user experience</h3>
+## Hi 👋, I'm Johan Won</h1>
+I design and build AI systems with a focus on clarity and real-world usability.<br>
+Lately, I’ve been thinking more about **how to define the right problems—**  <br>
+Because once AI works, the real challenge is often figuring out what to ask in the first place.  <br>
+I care deeply about what users actually experience, and I try to design with that perspective in mind.  <br>
+My background as a **content producer** and **business manager** helps me turn complex ideas into services that feel intuitive and approachable..</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=wonjeonghwan&label=Profile%20views&color=0e75b6&style=flat" alt="wonjeonghwan" />
@@ -26,31 +30,19 @@
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="left"> <!-- Languages --> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> 
-  <img src="https://img.shields.io/badge/pyautogui-3776AB?style=flat&logo=python&logoColor=white" alt="pyautogui" />
-  <img src="https://img.shields.io/badge/multiprocessing-616161?style=flat&logo=python&logoColor=white" alt="multiprocessing" /> <!-- Others -->
-  <img src="https://img.shields.io/badge/Kivy-FF6F00?style=flat&logo=python&logoColor=white" alt="Kivy" /> 
-  <img src="https://img.shields.io/badge/PIL-E34F26?style=flat&logo=python&logoColor=white" alt="Pillow" /> 
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" /> <!-- Vision --> 
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" /> 
-  <img src="https://img.shields.io/badge/MediaPipe-FFCC00?style=flat&logo=google&logoColor=white" alt="MediaPipe" /> 
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black" alt="YOLO" /> 
-  <img src="https://img.shields.io/badge/DeepSORT-4A90E2?style=flat&logoColor=white" alt="DeepSORT" /> 
-  <img src="https://img.shields.io/badge/face--recognition-7E57C2?style=flat&logo=face&logoColor=white" alt="face-recognition" /> <!-- AI / ML --> 
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" /> 
-  <img src="https://img.shields.io/badge/Prophet-00A651?style=flat&logo=meta&logoColor=white" alt="Prophet" /> 
-  <img src="https://img.shields.io/badge/Whisper-8A2BE2?style=flat&logo=openai&logoColor=white" alt="Whisper" /> 
-  <img src="https://img.shields.io/badge/ChromaDB-1A1A1A?style=flat&logo=sqlite&logoColor=white" alt="ChromaDB" /> <!-- UI / Frontend --> 
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" /> <!-- IPC / System --> 
-  <img src="https://img.shields.io/badge/Win32--API-0078D6?style=flat&logo=windows&logoColor=white" alt="Win32 API" /> 
-  <img src="https://img.shields.io/badge/Named%20Pipe-008080?style=flat&logo=code&logoColor=white" alt="Named Pipe IPC" /> 
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" /> 
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" alt="Matplotlib" /> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /> 
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" /> 
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" /> </p>
+## 🛠️ Tech Stack</p>
+👨‍💻 Programming Languages & Core
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" /> </p>
+🧠 AI / Machine Learning
+<p align="left"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/Whisper-8A2BE2?style=flat&logo=openai&logoColor=white" alt="Whisper" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/MediaPipe-FFCC00?style=flat&logo=google&logoColor=white" alt="MediaPipe" /> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black" alt="YOLO" /> <img src="https://img.shields.io/badge/DeepSORT-4A90E2?style=flat&logoColor=white" alt="DeepSORT" /> <img src="https://img.shields.io/badge/face--recognition-7E57C2?style=flat&logo=face&logoColor=white" alt="face-recognition" /> </p>
+🧩 GUI & Application Frameworks
+<p align="left"> <img src="https://img.shields.io/badge/Kivy-FF6F00?style=flat&logo=python&logoColor=white" alt="Kivy" /> <img src="https://img.shields.io/badge/pyautogui-3776AB?style=flat&logo=python&logoColor=white" alt="pyautogui" />  </p>
+🧮 Data & Visualization
+<p align="left"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/ChromaDB-1A1A1A?style=flat&logo=sqlite&logoColor=white" alt="ChromaDB" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" alt="Matplotlib" /> </p>
+🎨 Design Tools
+<p align="left"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" /> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" /> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white" alt="Adobe Premiere Pro" /> </p>
+🤝 Collaboration Tools
+<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack" /> <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat&logo=googleworkspace&logoColor=white" alt="Google Workspace" /> </p>
 
 ---
 
@@ -58,3 +50,14 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonjeonghwan&layout=compact&theme=default" alt="Top Languages" />
 </p>
+
+---
+
+| Project                | describe                                                                      | Link                                                |
+| ------------------------ | ----------------------------------------------------------------------- | ------------------------------------------------- |
+| Edu-tech CX Chatbot | LLM-based chatbot that suggests alternative solutions for refund requests. Built with LangChain, RAG, and SQLite | [🔗 Github](https://github.com/wonjeonghwan/CX_guidance.git) |
+| Eye Tracking for Unreal  | Real-time gaze tracking system using IPC and pupil movement estimation, integrated with Unreal Engine | [🔗 GitHub](https://github.com/wonjeonghwan/Eye_tracking.git)     |
+| AI Kiosk        | Face recognition-based login system using face detection for kiosk apps | [🔗 GitHub](https://github.com/wonjeonghwan/Kiosk_vision.git) |
+| AI Parking System        | YOLO + DeepSORT-based system to detect and classify parking space occupancy via CCTV footage | [🔗 GitHub](https://github.com/wonjeonghwan/Parking_genius.git) |
+| ML_pisces        | Predictive model for Korean seafood prices using economic and environmental data. | [🔗 GitHub](https://github.com/wonjeonghwan/ml_pisces.git)  |
+
