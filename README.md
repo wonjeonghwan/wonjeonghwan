@@ -30,11 +30,11 @@ My background as a **content producer** and **business manager** helps me turn c
 
 ---
 
-## 🛠️ Tech Stack</p>
+## 🛠️ What I Use</p>
 👨‍💻 Programming Languages & Core
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" /> </p>
-🧠 AI / Machine Learning
-<p align="left"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/Whisper-8A2BE2?style=flat&logo=openai&logoColor=white" alt="Whisper" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/MediaPipe-FFCC00?style=flat&logo=google&logoColor=white" alt="MediaPipe" /> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black" alt="YOLO" /> <img src="https://img.shields.io/badge/DeepSORT-4A90E2?style=flat&logoColor=white" alt="DeepSORT" /> <img src="https://img.shields.io/badge/face--recognition-7E57C2?style=flat&logo=face&logoColor=white" alt="face-recognition" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> </p>
+🔍 Computer Vision & Image Processing
+<p align="left"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/MediaPipe-FFCC00?style=flat&logo=google&logoColor=white" alt="MediaPipe" /> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black" alt="YOLO" /> <img src="https://img.shields.io/badge/DeepSORT-4A90E2?style=flat&logoColor=white" alt="DeepSORT" /> <img src="https://img.shields.io/badge/face--recognition-7E57C2?style=flat&logo=face&logoColor=white" alt="face-recognition" /> </p>
 🧩 GUI & Application Frameworks
 <p align="left"> <img src="https://img.shields.io/badge/Kivy-FF6F00?style=flat&logo=python&logoColor=white" alt="Kivy" /> <img src="https://img.shields.io/badge/pyautogui-3776AB?style=flat&logo=python&logoColor=white" alt="pyautogui" />  </p>
 🧮 Data & Visualization
