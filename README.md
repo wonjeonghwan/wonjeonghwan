@@ -1,9 +1,8 @@
 ## Hi 👋, I'm Johan Won</h1>
-I design and build AI systems with a focus on clarity and real-world usability.<br>
-Lately, I’ve been thinking more about **how to define the right problems—**  <br>
-Because once AI works, the real challenge is often figuring out what to ask in the first place.  <br>
-I care deeply about what users actually experience, and I try to design with that perspective in mind.  <br>
-My background as a **content producer** and **business manager** helps me turn complex ideas into services that feel intuitive and approachable..</h3>
+I’m an AI engineer focusing on vision systems, exploring how technology can create direct and tangible value. <br>
+Lately, I’ve realized that “finding the right problem and solving it” isn’t as simple as it sounds. <br>
+To build that foundation, I’ve been experimenting with different approaches—studying data analysis and carrying out small-scale projects that help me grow step by step. <br>
+Hoping my background as a **content producer** and **business manager** can help me turn complex ideas into services that feel intuitive and approachable..</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=wonjeonghwan&label=Profile%20views&color=0e75b6&style=flat" alt="wonjeonghwan" />
@@ -61,3 +60,6 @@ My background as a **content producer** and **business manager** helps me turn c
 | AI Parking System        | YOLO + DeepSORT-based system to detect and classify parking space occupancy via CCTV footage | [🔗 GitHub](https://github.com/wonjeonghwan/Parking_genius.git) |
 | ML_pisces        | Predictive model for Korean seafood prices using economic and environmental data. | [🔗 GitHub](https://github.com/wonjeonghwan/ml_pisces.git)  |
 
+
+## 📜 Certifications
+- ADsP (Advanced Data Analytics Semi-Professional)
