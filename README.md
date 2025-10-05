@@ -58,7 +58,7 @@ Hoping my background as a **content producer** and **business manager** can help
 | Eye Tracking for Unreal  | Real-time gaze tracking system using IPC and pupil movement estimation, integrated with Unreal Engine | [🔗 GitHub](https://github.com/wonjeonghwan/Eye_tracking.git)     |
 | AI Kiosk        | Face recognition-based login system using face detection for kiosk apps | [🔗 GitHub](https://github.com/wonjeonghwan/Kiosk_vision.git) |
 | AI Parking System        | YOLO + DeepSORT-based system to detect and classify parking space occupancy via CCTV footage | [🔗 GitHub](https://github.com/wonjeonghwan/Parking_genius.git) |
-| ML_pisces        | Predictive model for Korean seafood prices using economic and environmental data. | [🔗 GitHub](https://github.com/wonjeonghwan/ml_pisces.git)  |
+| ML_pisces        | Predictive model for Korean seafood prices using economic and environmental data. | [🔗 GitHub](https://github.com/vhf1030/Pisces)  |
 
 
 ## 📜 Certifications
